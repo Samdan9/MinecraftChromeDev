@@ -1,8 +1,11 @@
 ### Hi, I am real.
 
 I make Lame Minecraft Stuff because im bored
+
 I also share a lot of projects I find cool
+
 I am in High school looking for a life
+
 Okay bye Now
 <!--
 **MinecraftChromeDev/MinecraftChromeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
