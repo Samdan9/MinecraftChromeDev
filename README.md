@@ -1,6 +1,6 @@
 ### Hi, I am real.
 
-I make Lame Minecraft Stuff because im bored
+I make Lame Stuff (mainly at school) because im bored
 
 I also share a lot of projects I find cool
 
